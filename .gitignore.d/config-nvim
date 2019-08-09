@@ -1,0 +1,7 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-nvim
+!/.config
+!/.config/nvim
+!/.config/nvim/init.vim
+!/.config/nvim/variables.vim
