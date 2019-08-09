@@ -23,6 +23,5 @@ Plug 'mattn/emmet-vim'
 call plug#end()
 
 " Colorscheme
-" silent! colorscheme nord
-
-colorscheme nord
+set termguicolors
+silent! colorscheme nord
